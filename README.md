@@ -30,7 +30,7 @@ Materiales de estudio del Ciclo 2 de la Ruta 2 de MisiónTIC 2022
 * Lenguaje de Modelado Unificado - UML (iMaster)
 * **Ejercicio**: Juego de Ajedrez
 
-### Material adicional
+#### Material adicional
 * [Instalación OpenJDK11](https://youtu.be/0Wn0yWwK20Q)
 * [Instalación de extensión de Java en VSCode](https://youtu.be/g6TMxG1xTzU)
 * Libro: [Programación moderna con aplicaciones](https://repositorio.utp.edu.co/items/1f499459-b52b-4ce0-94fc-70e695c42515)
@@ -68,9 +68,9 @@ Materiales de estudio del Ciclo 2 de la Ruta 2 de MisiónTIC 2022
 ### Clase 6
 * [Colecciones](clase06/colecciones.ipynb)
 * [Manejo de Excepciones](clase06/excepciones.ipynb)
-* [Pruebas de código](iMaster)
+* Pruebas de código (iMaster)
 
-### Material adicional
+#### Material adicional
 * [Convenciones de código](https://imaster.academy/contenidos-tematicos/programacion/Unidad2/ConvencionesCodigoJava.pdf)
 * [Lambdas y API Stream](https://www.youtube.com/watch?v=U5oOdNG2XQY&t=805)
 * [Curso JUnit 5](https://www.youtube.com/playlist?list=PLsRPgBUE5BI68-h4MF0Y5FLSNwGdlIBK0)
@@ -91,7 +91,7 @@ Materiales de estudio del Ciclo 2 de la Ruta 2 de MisiónTIC 2022
     * Data Control Language - DCL
     * Transaction Control Language - TCL
 
-### Material adicional
+#### Material adicional
 * [Instalación de SQLite](clase07/assets/Instalacion_SQLite3.pdf)
 * [Ejercicios Modelado de Base de Datos](clase07/assets/Ejercicios_Modelado_Base_de_Datos.pdf)
 * [Instalación DBeaver](https://www.youtube.com/embed/JkE1VFLHfTE)
@@ -111,7 +111,7 @@ Materiales de estudio del Ciclo 2 de la Ruta 2 de MisiónTIC 2022
   * Funciones
 * [Ejercicios](clase08/ejercicios.md)
 
-### Material adicional
+#### Material adicional
 * [Base de datos HR](clase08/assets/hr.db)
 * [Curso Video Base de Datos](https://www.youtube.com/embed/videoseries?list=PLs1sXiNvW4OyJCZs5WR3OjPZTlIqNcvQi) (Desde el video 5 en adelante)
 
@@ -123,3 +123,31 @@ Materiales de estudio del Ciclo 2 de la Ruta 2 de MisiónTIC 2022
   * Operaciones de conjunto
   * Manipulando datos DML
 * [Ejercicios](clase09/ejercicios.md)
+
+## Unidad 4 - Persistencia en Java
+### Clase 10
+* [Flujos de Entrada y Salida (I/O Streams)](clase10/iostreams.ipynb)
+  * Archivos
+  * Serialización de Objetos
+  * try-with-resources
+  * Java NIO.2
+* [Ejercicios](clase10/ejercicios.md)
+
+#### Material adicional
+* [Lectura de Archivos](https://www.youtube.com/embed/etQN4EfYN7k)
+* [Escritura de Archivos](https://www.youtube.com/embed/E0H4OzW2_1Y)
+* Ejemplo [Gestion empleados con Archivos](https://github.com/cesardiaz-utp/MisionTIC2022-Ciclo2-Unidad4-Archivos)
+
+### Clase 11
+* [JDBC - Java DataBase Conectivity](jdbc.ipynb)
+  * java.sql.DriverManager
+  * java.sql.Connection
+  * java.sql.Statement
+  * java.sql.ResultSet
+  * java.sql.PreparedStatement
+  * java.sql.CallableStatement
+* [Ejercicio](ejercicio.md)
+
+#### Material adicional
+* [Curso JDBC](https://www.youtube.com/embed/videoseries?list=PLs1sXiNvW4OyJCZs5WR3OjPZTlIqNcvQi)
+* Ejemplo [Gestion empleados con Base de Datos](https://github.com/cesardiaz-utp/MisionTIC2022-Ciclo2-Unidad4-Archivos)
